@@ -10,21 +10,6 @@
 <p align="center">
     As a timer app, wnr is simple but useful. | <a href="https://getwnr.com/">中文网站</a>
 </p>
-
-<p align="center">
-    Download <i>(Windows & macOS)</i>: <a href="https://github.com/RoderickQiu/wnr/releases">GitHub Release</a> | <a
-        href="https://www.softpedia.com/get/Desktop-Enhancements/Clocks-Time-Management/wnr.shtml">Softpedia
-        (Windows)</a> | <a href="https://pan.baidu.com/s/1PDpnEkf-zKQKQIhUTO0ubQ">百度网盘</a>（swh3） | <a href="https://scris.lanzoui.com/b01n0tb4j">蓝奏云高速下载</a>
-</p>
-
-<p align="center">
-    <a href="https://github.com/RoderickQiu/wnr/blob/master/README.md">English README</a> | <a href="https://github.com/RoderickQiu/wnr/blob/master/README.zh-CN.md">简体中文简介</a> | <a href="https://github.com/RoderickQiu/wnr/blob/master/README.zh-TW.md">正體中文簡介</a>
-</p>
-
-<p align="center">
-    <a href="https://github.com/RoderickQiu/wnr/blob/master/DEVELOPMENT_GUIDE.md">Development Guide</a>
-</p>
-
 <table border="0" align="center">
     <tr>
         <td align="right"><img src="https://i.loli.net/2020/10/01/D72AIFTGQ49OpYd.png" ></td>

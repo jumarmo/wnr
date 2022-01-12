@@ -4,11 +4,11 @@
 <h2 align="center">wnr</h2>
 
 <p align="center">
-    <b>The name is an abbr of "Work & Rest". It's a timer app with strong expansibility for computers.</b>
+    <b>It's a timer app with strong expansibility for computers.</b>
 </p>
 
 <p align="center">
-    As a timer app, wnr is simple but useful. | <a href="https://getwnr.com/">中文网站</a>
+    As a timer app, wnr is simple but useful.</a>
 </p>
 <table border="0" align="center">
     <tr>
